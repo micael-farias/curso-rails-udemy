@@ -1,0 +1,45 @@
+- Linguagem Ruby criada em 1995 por Matsumoro
+- Linguagem Ruby é pautada na escrita de uma linguagem tradicional, como inglês
+- Em 2000 nos EUA, Dave Thomas e Andy Hunt traduziram para o inglês
+
+- Em 2003 foi criado o framework Ruby on Rails
+- Muito usado por Startups
+- Porque usar Rails? 
+    - O processo de programar é mais rápido (Ever dade)
+    - Convenções Rails (estruturas...) ajudam um programador a estar em um projeto e outro
+    - Bons frameworks para testes
+    - É open source
+    - Padrão MVC
+
+- O que é Ruby?
+    - Linguagem, como Python, C#, Java...
+    - Interpretada ( Você escreve o seu algoritmo, e a MRI ler o arquivo Ruby, interpretar e mostrar o resultado)
+    - Multiparadigma ( OO, Funcional... )
+
+- O que são Gems?
+    - Bibliotecas do Ruby
+
+- Ruby on Rails
+    - framework de desenvolvimento de aplicações web escrito em Ruby
+    
+Aprenda o Rails Way, produtividade sobe.
+
+    - DRY, não repita código, evite duplicações, melhor manutenção
+    - CoC, rails sabe como padronizar uma aplicação Web, use os padrões, é bem melhor, menos dor de cabeça.
+
+Ambientes de desenvolvimento:
+    - Local
+    - Internet ( Try Ruby, Cloud 9 )
+    - Virtualizado ( Vagrant, VB, Docker )
+
+Como executar um arquivo ruby?
+    - ruby {nome_arquivo}.rb
+
+O que é IRB?
+    - shell que permite escrever algoritmos da linguagem ruby e ir interpretar na medida que vou escrevendo
+
+Pry?
+    - IRB melhorado
+    - tem coloração
+    - identação
+
